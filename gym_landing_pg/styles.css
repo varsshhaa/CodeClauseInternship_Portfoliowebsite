@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Poppins:wght@500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 75vw;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    display: flex;
+    height: 85px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.topleft{
+    width: 50vw;
+    height: 50vh;
+}
+.topright {
+    width: 50vw;
+    height: 50vh;
+
+}
+.section1{
+    min-height: 70vh;
+}
+.section1 h1{
+    font-size: 2 rem;
+}
+.logo{
+    font-size: 1.2 rem;
+}
+.dumbelling{
+    width: 89px;
+    padding-top: 120px;
+}
+.topright .gyming{
+    width: 450px;
+}
+.gyming{
+    padding-top: 61px;
+    width: 450px;
+}
+.section1 p{
+    font-size: 15px;
+    margin-top: -0.5px;
+}
+.section1 h1{
+    font-size: 2rem;
+}
+h1{
+    text-shadow: 2px 2px  rgb(202, 149, 158);
+}
+.section2{
+    padding: 70px;
+}
+.section2 h1{
+    font-size: 2.4rem;
+}
+.section2 p{
+    padding: 0 2vw;
+    text-align: center;
+}
+.box{
+    padding: 25px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(119, 141, 141);
+    border-radius: 8px;
+    text-align: center;
+}
+.box h2{
+    font-size: 2rem;
+    padding: 12px 0;
+}
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.box ul{
+    list-style: none;
+}
+.box ul li{
+    margin: 8px 3px;
+}
+.table-responsive{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3 table{
+    width: 100%;
+    margin-bottom: 130px;
+    margin-top: 18px;
+    border-collapse: collapse;
+}
+.section3 table th{
+    padding: 14px 0;
+    width: 23vw;
+    border-bottom: 2px solid black;
+}
+.section3 table td{
+border-bottom: 2px solid black;
+}
+.section3 h1{
+    font-size: 2rem;
+}
+.section3{
+    padding: 70px;
+}
+footer{
+    padding: 22px;
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding:10px;
+ 
+ 
+}
+.btn{
+    margin:10px;
+}
+.deal{
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin: 12px 0;
+}
